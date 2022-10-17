@@ -20,3 +20,4 @@ In this challenge, try to:
 
 **Notes**:
 - You can use the BB84 codes from the workshop.
+- To simulate Alice and Bob measuring their entangled photons (in BBM92), you must perform both measurements before running the qiskit job to ensure the correctness of the results, i.e., you cannot measure Alice's qubit and run the job and then measure Bob's qubit afterwards.
