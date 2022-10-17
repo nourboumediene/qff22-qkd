@@ -1,8 +1,7 @@
 # Quantum Key Distribution Challenge
 
 <p align="middle">
-  <img src="logos/qff22_logo.png" width="375"/>
-  <img src="logos/cqtech_logo.png" width="300"/>
+  <img src="logos/qff22_cqtech_banner.png"/>
 </p>
 
 This challenge is proposed by [Constantine Quantum Technologies](https://cqtech.org/) for the [Qiskit Fall Fest 2022 at Algiers](https://qiskit-fall-fest-algiers.wtmalgiers.org/) organized by [Women Techmakers Algiers](https://www.linkedin.com/company/wtm-algiers/) & [GDG Algiers](https://www.gdgalgiers.com/)
